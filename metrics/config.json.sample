@@ -1,0 +1,7 @@
+{
+    "socket_path": "/tmp/metricsd_socket",
+    "mqtt_host": "localhost:12345",
+    "buffer_size": 10,
+    "relay_port": 12345,
+    "verbose": false
+}

@@ -1,0 +1,9 @@
+[general]
+host = "127.0.0.1"
+port = 8081
+message_max_time = 10 # In ms.
+verbose_log = false
+log_path = "/data/local"
+
+[http]
+root_path = "/system/kaios/http_root"
